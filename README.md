@@ -1,0 +1,2 @@
+# smarter_05_input_0_hist_20220829_0001_000001
+農業設施內全面環境感測資訊與控制資訊集 Comprehensive environmental sensing and control information set in agricultural facilities
